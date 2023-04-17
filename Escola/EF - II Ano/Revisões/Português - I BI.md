@@ -214,6 +214,90 @@ Quando se tem ***substantivo + substantivo*** e caso o mesmo indivíduo ou objet
 ```
 Palavras-chave (palavra-chave)
 ```
+
+# Artigos
+> Veja a vídeo aula [Artigo - Brasil Escola](https://youtu.be/KPvRlK6eGPY) para verificar as exceções
+É a palavra que, ao determinar um substantivo, indica se ele está sendo empregado de maneira definida ou indefinida. Além disso, indica o gênero e o número dos substantivos
+## Definidos
+São, por exemplo: ***"O"***, ***"a"***, ***"os"***, ***"as"***
+```
+Eu encontrei o professor de química
+```
+## Indefinidos
+São, por exemplo: ***"Um"***, ***"uma"***, ***"uns"***, ***"umas"***
+```
+Eu encontrei um professor
+```
+
+# Adjetivos 
+****Caracterizam**** um outro termo
+## Flexão de Gênero
+### Biformes
+Quando o adjetivo ***altera*** entre feminino e masculino
+```
+Feio, feia
+Querido, querida
+```
+### Uniformes
+Quando o adjetivo ***não altera*** em relação ao feminino e masculino
+```
+Veloz
+Inteligente
+Feliz
+```
+## Flexão de Número
+### Simples
+Apresenta apenas ***um*** radical
+```
+Pobre
+Magro
+```
+### Composto
+Apresenta ***dois ou mais*** radicais
+```
+Luso-brasileiro
+```
+## Flexão de Grau
+### Comparativo
+***Compara*** seres
+#### Superioridade
+```
+A menina era mais estudiosa que o irmão
+```
+#### Inferioridade
+```
+A menina era menos estudiosa que o irmão
+```
+#### Superioridade
+```
+A menina era tão estudiosa quanto o irmão
+```
+### Superlativo
+#### Absoluto
+##### Analítico
+Quando um ***advérbio acompanha*** o adjetivo (Analítco)
+```
+Aquele menino é muito alto
+```
+##### Sintético
+Quando o adjetivo é acompanhado por um ***sufíxo***
+```
+Aquele menino é altíssimo
+```
+#### Relativo
+Quando compara um ser em relação a um ***grupo***
+##### Superioridade
+```
+Aquele aluno da sala é o mais dedicado de toda classe 
+```
+##### Inferioridade
+```
+Aquele aluno da sala é o menos dedicado de toda classe 
+```
+
+
+
+
 # Para se Aprofundar ✨
 [Um Geral do Substantivo](https://youtu.be/8iXiBgCnGv4)
 
@@ -222,5 +306,7 @@ Palavras-chave (palavra-chave)
 [Plural dos Substantivos Simples](https://youtu.be/O3HJCzfBzkg)
 
 [Plural dos Substantivos Compostos](https://youtu.be/A7HQkrn2kzw)
+
+[Artigos](https://youtu.be/KPvRlK6eGPY)
 
 
