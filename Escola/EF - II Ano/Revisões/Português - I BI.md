@@ -127,8 +127,11 @@ Pé grande
 
 # Sources
 [Um Geral do Substantivo](https://youtu.be/8iXiBgCnGv4)
+
 [Grau dos Substantivos](https://youtu.be/b3cefeUJDeM)
+
 [Plural dos Substantivos Simples](https://youtu.be/O3HJCzfBzkg)
+
 [Plural dos Substantivos Compostos](https://youtu.be/A7HQkrn2kzw)
 
 
