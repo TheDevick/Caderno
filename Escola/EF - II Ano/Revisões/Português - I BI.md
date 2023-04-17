@@ -125,7 +125,70 @@ Casa grande
 Pé grande
 ```
 
-# Sources
+## Plural
+### Substantivo Simples 
+> Veja a vídeo aula [Plural dos Substantivos Simples - Brasil Escola](https://youtu.be/O3HJCzfBzkg) para verificar as exceções
+Os substantivos terminados em ***vogal***, ***ditongo oral*** ou ***"n"*** fazem o plural pelo acréscimo de ***"s"***
+```
+Pais (pai)
+Imãs (imã)
+Hífens (hífen)
+```
+---
+Os substantivos terminados em ***"m"*** fazem o plural removendo o ***"m"*** e acrescentando ***"ns"***
+```
+Homens (homem)
+Garçons (garçom)
+Bombons (bombom)
+```
+---
+Os substantivos terminados em ***"r"*** ou ***"z"**** fazem o plural acrescentando ***"es"***
+``` 
+Revólveres (revólver)
+Raízes (raiz)
+Garçons (garçom)
+Bombons (bombom)
+```
+---
+Os substantivos terminados em ***"al"***, ***"el"***, ***"ol"***, ***"ul"*** fazem o plural removendo o ***"l"*** e acrescentando ***"is"***
+```
+Quintais (quintal)
+Caracóis (caracol)
+Hotéis (hotel)
+```
+---
+Os substantivos terminados em ***"il"*** e são oxítonos, fazem o plural removendo o ***"l"*** e acrescentando ***"s"***
+``` 
+Canis (canil)
+```
+---
+Os substantivos terminados em ***"il"*** e são paroxítionos, fazem o plural removendo o ***"il"*** e acrescentando ***"ies"***
+``` 
+Mísseis (míssil)
+```
+---
+Os substantivos terminados em ***"s"*** e são monossilábicos ou oxítinos, fazem o plural acrescentando ***"es"***
+```
+Países (País)
+```
+---
+Os substantivos terminados em ***"s"*** e são paroxítionos ou proparoxítonos, ficam invariáveis
+```
+Os lápis (o lápis)
+```
+---
+Os substantivos terminados em ***"ão"*** fazem o plural removendo o ***"ão"*** e acrescentando ***"ães"***, ***"ões"*** ou ***"ãos"***
+```
+Corações (coração)
+Cães (cão)
+Grãos (grão)
+```
+---
+Os substantivos terminados em ***"x"*** ficam invariáveis
+```
+Os látex (o látex)
+```
+# Para se Aprofundar ✨
 [Um Geral do Substantivo](https://youtu.be/8iXiBgCnGv4)
 
 [Grau dos Substantivos](https://youtu.be/b3cefeUJDeM)
