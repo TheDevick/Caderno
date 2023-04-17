@@ -128,6 +128,7 @@ Pé grande
 ## Plural
 ### Substantivo Simples 
 > Veja a vídeo aula [Plural dos Substantivos Simples - Brasil Escola](https://youtu.be/O3HJCzfBzkg) para verificar as exceções
+
 Os substantivos terminados em ***vogal***, ***ditongo oral*** ou ***"n"*** fazem o plural pelo acréscimo de ***"s"***
 ```
 Pais (pai)
@@ -187,6 +188,31 @@ Grãos (grão)
 Os substantivos terminados em ***"x"*** ficam invariáveis
 ```
 Os látex (o látex)
+```
+### Substantivo Composto
+> ***Regra Geral***: Na formação dos substantivos compostos, são variávies o substantivo, o adjetivo e o numeral. São invariáveis o verbo e o advérbio.
+> Veja a vídeo aula [Plural dos Substantivos Compostos - Brasil Escola](https://youtu.be/A7HQkrn2kzw) para verificar as exceções
+
+Quando as palavras são ligados por ***preposição***, apenas o ***primeiro*** elemento vai ao plural.
+```
+Pães de queijo (pão de queijo)
+Jacarés-de-papo-amarelo (jacaré-de-papo-amarelo)
+Hífens (hífen)
+```
+---
+Quando as palavras são palavras ***repetidas***, apenas o ***último*** elemento vai ao plural
+```
+Bem-te-vis (bem-te-vi)
+```
+---
+Quando se tem ***substantivo + substantivo*** e caso o mesmo indivíduo ou objeto ***puder*** ser os dois nomes, ***ambos*** vão ao plural
+```
+Editores-chefes (editor-chefe)
+```
+---
+Quando se tem ***substantivo + substantivo*** e caso o mesmo indivíduo ou objeto ***não puder*** ser os dois nomes, apenas o ***primeiro*** vai ao plural
+```
+Palavras-chave (palavra-chave)
 ```
 # Para se Aprofundar ✨
 [Um Geral do Substantivo](https://youtu.be/8iXiBgCnGv4)
