@@ -21,7 +21,7 @@ Caneta
 Pessoa
 ```
 ### Próprio
-***Especifica*** algo
+***Específica*** algo
 ```
 Bic (Caneta)
 Erick (Pessoa)
@@ -91,7 +91,7 @@ A capivara fêmea, a capivara macho
 ## Grau
 Exprime as variações de tamanho do ser.  
 ### Normal
-Quando o substantivo está em sua forma ***normal***, ou seja, ***não signfiica*** algo ***muito grande*** ou ***muito pequeno*** 
+Quando o substantivo está em sua forma ***normal***, ou seja, ***não significa*** algo ***muito grande*** ou ***muito pequeno*** 
 ```
 Casa
 Pé
@@ -163,17 +163,17 @@ Os substantivos terminados em ***"il"*** e são oxítonos, fazem o plural remove
 Canis (canil)
 ```
 ---
-Os substantivos terminados em ***"il"*** e são paroxítionos, fazem o plural removendo o ***"il"*** e acrescentando ***"ies"***
+Os substantivos terminados em ***"il"*** e são paroxítonos, fazem o plural removendo o ***"il"*** e acrescentando ***"ies"***
 ``` 
 Mísseis (míssil)
 ```
 ---
-Os substantivos terminados em ***"s"*** e são monossilábicos ou oxítinos, fazem o plural acrescentando ***"es"***
+Os substantivos terminados em ***"s"*** e são monossilábicos ou oxítonos, fazem o plural acrescentando ***"es"***
 ```
 Países (País)
 ```
 ---
-Os substantivos terminados em ***"s"*** e são paroxítionos ou proparoxítonos, ficam invariáveis
+Os substantivos terminados em ***"s"*** e são paroxítonos ou proparoxítonos, ficam invariáveis
 ```
 Os lápis (o lápis)
 ```
@@ -190,7 +190,7 @@ Os substantivos terminados em ***"x"*** ficam invariáveis
 Os látex (o látex)
 ```
 ### Substantivo Composto
-> ***Regra Geral***: Na formação dos substantivos compostos, são variávies o substantivo, o adjetivo e o numeral. São invariáveis o verbo e o advérbio.
+> ***Regra Geral***: Na formação dos substantivos compostos, são variáveis o substantivo, o adjetivo e o numeral. São invariáveis o verbo e o advérbio.
 > Veja a vídeo aula [Plural dos Substantivos Compostos - Brasil Escola](https://youtu.be/A7HQkrn2kzw) para verificar as exceções
 
 Quando as palavras são ligados por ***preposição***, apenas o ***primeiro*** elemento vai ao plural.
@@ -280,7 +280,7 @@ Quando um ***advérbio acompanha*** o adjetivo (Analítco)
 Aquele menino é muito alto
 ```
 ##### Sintético
-Quando o adjetivo é acompanhado por um ***sufíxo***
+Quando o adjetivo é acompanhado por um ***sufixo***
 ```
 Aquele menino é altíssimo
 ```
